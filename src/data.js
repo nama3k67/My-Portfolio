@@ -1,4 +1,6 @@
 import product_01 from "./img/product_01.png";
+import product_02 from "./img/product_02.png";
+import product_03 from "./img/product_03.png";
 
 export const products = [
   {
@@ -8,13 +10,13 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://st.quantrimang.com/photos/image/2021/08/16/Anh-vit-cute-6.jpg",
-    link: "https://github.com/nama3k67/book-store",
+    img: product_02,
+    link: "https://www.figma.com/file/V4sJXlxYb33UnbKLM7a1ZU/Wireframe?node-id=136%3A675",
   },
   {
     id: 3,
-    img: "https://st.quantrimang.com/photos/image/2021/08/16/Anh-vit-cute-6.jpg",
-    link: "https://github.com/nama3k67/book-store",
+    img: product_03,
+    link: "https://github.com/nama3k67/My-Portfolio",
   },
 ];
 

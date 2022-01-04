@@ -34,7 +34,16 @@ const About = () => {
             </h4>
             <p className="a-award-desc">
               I have graduated from the Front-end course of IVietTech center
-              with the Bookworm project evaluation score of 9.5.
+              with the{" "}
+              <a
+                href="http://bookworm-web.surge.sh/"
+                target="_blank"
+                rel="noreferrer"
+                className="a-award-link"
+              >
+                Bookworm
+              </a>{" "}
+              project evaluation score of 9.5.
             </p>
           </div>
         </div>
